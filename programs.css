@@ -1,0 +1,52 @@
+body
+{ 
+  
+ 	 background-image:url("/home/6CSE1/Downloads");
+  	background-repeat:repeat;
+  	background-attachment:fixed;
+  	background-attachment:scroll;
+ }
+h1
+{
+	
+   	color:maroon;
+	margin-left:40px;
+	text-shadow:4px 4px 8px blue;
+ 	opacity:0.6;
+}
+p
+{
+	
+	font-style:italic;
+	font-family:georgia,garamond,serif;
+	color:torquoise;
+	font-size:20px;
+	font-weight:900;
+	text-decoration:line-through;
+	text-decoration:underline;
+	text-decoration:capitalize;
+	border-top-style:dotted;
+	border-right-style:solid;
+	border-bottom-style:dotted;
+	border-left-style:solid;
+	border-left:6px solid red;
+	background-color:lightgery;
+}
+p.new
+{
+	direction:ltr;
+	letter-spacing:5px;
+	word-spacing:5px;
+	text-indent:5cm;
+	text-transform:uppercase;
+}
+	#id1{ font-size:20px;}
+  	.mycolor{color:maroon;}
+p.three
+{
+	border-style:solid;
+	border-width:2px 10px 4px 20px;
+	border-color:red green blue yellow;
+}
+	
+
